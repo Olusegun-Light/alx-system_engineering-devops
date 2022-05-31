@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '#!/bin/bash\nHello, World' > 0-hello_world 
+yoecho -e '#!/bin/bash\necho Hello, World' > 0-hello_world 
