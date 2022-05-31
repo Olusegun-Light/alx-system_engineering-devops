@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -b 1 | tr -d '\n' | uni
+cut -c 1 | paste -s -d ''
