@@ -1,2 +1,2 @@
 #!/bin/bash
-AVpaste - - | cut -f1
+paste - - | cut -f1
